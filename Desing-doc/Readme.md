@@ -32,6 +32,7 @@ Currently, I use many apps that do their job, but it becomes too many subscripti
 
 ## Non-Goals
 * Offline funcionability
+* Notifications
 
 ## Overview
 We need a web application with an interface for splitting modules and saving the different registers.
