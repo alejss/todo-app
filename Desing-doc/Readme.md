@@ -11,9 +11,9 @@ Last Updated: 2023-02-05
 * Overview
 * Detailed Design
   * Backend
-    * Solution 1
+    * [Solution 1](Solutions/Backend-One.md)
   * Frontend
-    * Solution 1
+    * [Solution 1](Solutions/Front-One.md)
 * Considerations
 * Metrics
 
